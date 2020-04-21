@@ -1,0 +1,2 @@
+rootProject.name='Basic Activity Architecture'
+include ':app'
