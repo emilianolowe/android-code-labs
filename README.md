@@ -1,4 +1,4 @@
-# Android Developer Fundamentals (Version 2)
+# Android Developer Fundamentals
 
 This repository contains samples, starter code, and solutions for Version 2 of the Android Developer Fundamentals course (August 2018).
 
